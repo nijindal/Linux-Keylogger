@@ -1,0 +1,5 @@
+==''Current Progress''==
+*It's commandline Linux utility which detects the Hardware interrupt from Keyboard on kernel Level and then shows the keys pressed.
+*Coding part is done in C, on Linux Kernel 2.6.34 and it includes Concepts from Linux Driver's coding.
+==''For future''==
+*Thinking of making a GUI for the same, with adding feature to save all keys pressed in some file.
